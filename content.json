@@ -2,7 +2,19 @@
     {
         "type": "message",
         "message": {
-            "text": "Hello World"
+            "text": "Message 1"
+        }
+    },
+    {
+        "type": "message",
+        "message": {
+            "text": "Message 2"
+        }
+    },
+    {
+        "type": "message",
+        "message": {
+            "text": "Message 3"
         }
     }
 ]
