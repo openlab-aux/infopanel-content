@@ -1,0 +1,90 @@
+- type: markdown
+  duration: 30000
+  markdown:
+    columns:
+      - width: 35
+        text: |
+          <img src="https://i.ibb.co/LCBLfZK/logo-colour-transparency-1.png" width="90%" style="margin-top: 80px"/>
+      - width: 65
+        text: |
+          # OpenLab Augsburg: Wer wir sind
+
+          Das OpenLab ist Augsburgs erster Hackerspace. Hier treffen sich 
+          Menschen, um gemeinsam kreativ zu sein, zu lernen und Projekte umzusetzen.
+
+          Wir verstehen uns als selbstverwaltetes Kulturzentrum für Nerds,
+          Haecksen/Hacker und Bastler:innen.
+
+          Mehr Informationen findest Du auf unserer Webseite: 
+          
+          https://www.openlab-augsburg.de
+
+- type: markdown
+  duration: 30000
+  markdown:
+    columns:
+      - width: 35
+        text: |
+          ![](https://i.ibb.co/K6vJYh1/image-from-rawpixel-id-6652792-png.png?size=400x200)
+      - width: 65
+        text: |
+          # Was ist eigentlich mit der "Rakete" passiert?
+          
+          Wegen **Vandalismus** ist die "Rakete" leider nicht benutzbar. Wir
+          arbeiten momentan an einer Alternative, die dann vielleicht auch **noch** mehr
+          Spaß macht.
+
+          In der Zwischenzeit zeigen wir euch hier Informationen über unseren Raum.
+
+- type: markdown
+  duration: 30000
+  markdown:
+    columns:
+      - width: 35
+        text: |
+          <img src="https://miro.medium.com/v2/resize:fit:1400/0*y1jwB3K6muAg7XtY.jpg" width="90%" style="margin-top: 64px"/>
+      - width: 65
+        text: |
+          # Themenabend: 3D-Druck
+
+          Jeden **Dienstag** ab 18:00
+
+          auch für Nichtmitglieder
+          
+- type: markdown
+  duration: 45000
+  markdown:
+    columns:
+      - width: 35
+        text: |
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo_CCC.svg/1200px-Logo_CCC.svg.png" width="90%" style="margin-top: 64px;"/>
+      - width: 65
+        text: |
+          # Unsere Werte - die Hackerethik
+
+          * Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
+          * Alle Informationen müssen frei sein.
+          * Mißtraue Autoritäten – fördere Dezentralisierung.
+          * Beurteile einen Hacker nach dem, was er tut, und nicht nach üblichen Kriterien wie Aussehen, Alter, Herkunft, Spezies, Geschlecht oder gesellschaftliche Stellung.
+          * Man kann mit einem Computer Kunst und Schönheit schaffen.
+          * Computer können dein Leben zum Besseren verändern.
+          * Mülle nicht in den Daten anderer Leute.
+          * Öffentliche Daten nützen, private Daten schützen.
+- type: markdown
+  duration: 30000
+  markdown: 
+    columns: 
+      - width: 35
+        text: |
+
+      - width: 65
+        text: |
+          # NerdNight 17: D. I. ‽ WHY
+
+          ## Save the date!
+
+          **15.6.24** 16:20
+          
+          talks - drinks - music
+          
+          https://openlab-augsburg.de/nerdnight
