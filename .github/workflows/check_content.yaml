@@ -1,0 +1,28 @@
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - reopened
+    paths:
+      - "content.yaml"
+  push:
+    branches-ignore:
+      - "master"
+    paths:
+      - "content.yaml"
+
+
+jobs:
+  check_content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - run: |
+          python -m pip install pyyaml jsonschema
+      - run: |
+          python schema/test_content.py
