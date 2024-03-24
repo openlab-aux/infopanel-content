@@ -13,7 +13,6 @@
             }
         },
         "oneOf": [
-            {},
             {
                 "required": ["message"],
                 "properties": {
