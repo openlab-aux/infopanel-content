@@ -1,0 +1,80 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "schema:content",
+    "title": "Content",
+    "description": "Describes the content for InfoPanel",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": ["type"],
+        "properties": {
+            "duration": {
+                "type": "number"
+            }
+        },
+        "oneOf": [
+            {
+                "required": ["message"],
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "enum": ["message"]
+                    },
+                    "message": {
+                        "type": "object",
+                        "required": ["text"],
+                        "properties": {
+                            "text": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "required": ["markdown"],
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "enum": ["markdown"]
+                    },
+                    "markdown": {
+                        "type": "object",
+                        "oneOf": [{
+                            "required": ["text"],
+                            "properties": {
+                                "text": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        {
+                            "required": ["columns"],
+                            "properties": {
+                                "columns": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object", 
+                                        "required": ["width", "text"],
+                                        "properties": {
+                                            "width": {
+                                                "type": "number",
+                                                "minimum": 0,
+                                                "maximum": 100
+                                            },
+                                            "text": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }]
+                    }
+                }
+            }
+
+        ]
+        
+    }
+}

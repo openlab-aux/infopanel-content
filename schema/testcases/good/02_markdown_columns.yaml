@@ -1,0 +1,10 @@
+- type: markdown
+  duration: 234
+  markdown:
+    columns:
+      - width: 30
+        text: |
+          foo
+      - width: 70
+        text: |
+          bar

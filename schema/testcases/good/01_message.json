@@ -1,0 +1,8 @@
+[
+    {
+        "type": "message",
+        "message": {
+            "text": "hello world"
+        }
+    }
+]
