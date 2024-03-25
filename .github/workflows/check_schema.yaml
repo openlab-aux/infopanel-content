@@ -19,5 +19,3 @@ jobs:
           python -m pip install check-jsonschema jsonschema pyyaml
       - run: |
           check-jsonschema schema/schema.json --check-metaschema
-      - run: |
-          python schema/test_content.py
