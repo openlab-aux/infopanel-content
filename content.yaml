@@ -19,6 +19,11 @@
           
           https://www.openlab-augsburg.de
 
+- type: message
+  duration: 250
+  message: 
+    text: fnord
+
 - type: markdown
   duration: 30000
   markdown:
