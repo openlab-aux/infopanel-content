@@ -2,9 +2,6 @@ on:
   push:
     branches-ignore:
       - "master"
-    paths:
-      - "content.yaml"
-
 
 jobs:
   check_content:
