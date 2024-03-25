@@ -10,6 +10,10 @@
         "properties": {
             "duration": {
                 "type": "number"
+            },
+            "expires": {
+                "type": "string",
+                "format": "date"
             }
         },
         "oneOf": [
