@@ -42,6 +42,26 @@
     columns:
       - width: 35
         text: |
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Home_Assistant_Logo.svg/2048px-Home_Assistant_Logo.svg.png" width="90%" style="margin-top: 64px"/>
+      - width: 65
+        text: |
+          # Themenabend: Open Source Home Automation
+
+          Jeden **2. Donnerstag im Monat** ab 19:00
+
+          auch für Nichtmitglieder
+
+          An diesem Themenabend geht es um Home Automation mit Open-Source Tools.
+
+          Wenn du konkrete Fragen rund um Home Automation hast oder dich einfach inspirieren lassen möchtest,
+          bist du bei unserem Themenabend herzlich willkommen!
+ 
+- type: markdown
+  duration: 30000
+  markdown:
+    columns:
+      - width: 35
+        text: |
           <img src="https://miro.medium.com/v2/resize:fit:1400/0*y1jwB3K6muAg7XtY.jpg" width="90%" style="margin-top: 64px"/>
       - width: 65
         text: |
