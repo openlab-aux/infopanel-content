@@ -114,3 +114,18 @@
         text: |
           <img src="https://wiki.openlab-augsburg.de/NerdNightFlyer.web.png" height="90%" style="margin-top: 60px;"/>
 
+- type: markdown
+  duration: 30000
+  markdown:
+    columns:
+      - width: 35
+        text: |
+          <img src="https://wiki.openlab-augsburg.de/paulele_Messbox_Luftschadstoffe_720px.JPG" width="90%" style="margin-top: 64px;"/>
+      - width: 65
+        text: |
+          # Projekte im OpenLab: Umweltmonitoring im Eigenbau
+
+          Die seit Jahren zunehmende Verfügbarkeit von kostengünstigen Sensoren
+          ermöglicht es Interessierten ihre Umwelt in Do-it-yourself-Manier selbst zu erkunden, 
+          um z. B. Gegebenheiten in ihrer direkten Umgebung wie die Lufttemperatur
+          oder sogar Luftschadstoffkonzentrationen wie dem von gesundheitsschädlichen Feinstaub durch Messungen zu erfassen.
