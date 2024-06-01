@@ -90,27 +90,3 @@
           * Computer können dein Leben zum Besseren verändern.
           * Mülle nicht in den Daten anderer Leute.
           * Öffentliche Daten nützen, private Daten schützen.
-
-- type: markdown
-  duration: 30000
-  markdown: 
-    columns: 
-      - width: 25
-        text: |
-          <p></p>
-      - width: 42
-        text: |
-          # NerdNight 17
-          ## Call for Participation!
-
-          Wir haben noch Slots für Vorträge (ca. 45 Minuten) und Lightning Talks (ca. 
-          10 Minuten) zu vergeben. Falls Du Dir vorstellen kannst, einen Vortrag zu
-          halten, kannst Du Dich noch bis zum 1.6. auf unserer Veranstaltungsseite
-          dafür anmelden:
-
-          https://openlab-augsburg.de/nerdnight
-
-      - width: 33
-        text: |
-          <img src="https://wiki.openlab-augsburg.de/NerdNightFlyer.web.png" height="90%" style="margin-top: 60px;"/>
-
