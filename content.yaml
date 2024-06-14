@@ -102,11 +102,9 @@
       - width: 65
         text: |
           # Heute Nerdnight!
-          ## Kommt doch einfach rein
-          ### Vorträge, Essen, Trinken und gute Laune ;)
-
-          ### Programm
-
+          #### Kommt doch einfach rein
+          ##### Vorträge, Essen, Trinken und gute Laune ;)
+          ###### Programm
           | Zeit     | Programmpunkt                                                                                                                                                                                                                                                                                                                                                                                                                                            |
           | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
           | 16:00    | Bertram Wirth: Entwicklung und Anwendungsfälle einer RDF-GUI mit interaktiven geo-Positions-Grafiken<br><br>Der aktuelle Prototyp läuft lokal auf einem Smartphone mit Android 10 unter Termux mit einem Fuseki- und einem Tomcat-Server und einem Java-Servlet.                                                                                                                                                                                         |
