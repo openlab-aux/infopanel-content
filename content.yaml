@@ -23,6 +23,16 @@
   duration: 30000
   markdown:
     columns:
+      - width: 100
+        text: |
+          <div align="center">
+            <img src="https://i.imgur.com/dZc279h.png" width="44%" />
+          </div>
+
+- type: markdown
+  duration: 30000
+  markdown:
+    columns:
       - width: 35
         text: |
           ![](https://i.ibb.co/K6vJYh1/image-from-rawpixel-id-6652792-png.png?size=400x200)
